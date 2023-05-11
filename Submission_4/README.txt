@@ -2,6 +2,7 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/4462321662wfghcbsssgbd
 
 Unlisted YouTube video:
+https://www.youtube.com/watch?v=BwE8ABx2RuI
 
 
 Conference submitted paper / paper submission / login Link:
@@ -11,6 +12,7 @@ Paper title:
 Fake news detection using NLP
 
 Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1oTkoos29Omna6docfhbAPeHDDtQg43jRQWw4k9dKuuI/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
