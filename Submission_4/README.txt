@@ -12,7 +12,7 @@ Paper title:
 Fake news detection using NLP
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1oTkoos29Omna6docfhbAPeHDDtQg43jRQWw4k9dKuuI/edit?usp=sharing
+https://github.com/zehan98/CSE431/blob/main/Submission_4/Fake%20News%20Detection%20using%20NLP.pdf
 
 Paper submission date (to workshop/conference):
 
