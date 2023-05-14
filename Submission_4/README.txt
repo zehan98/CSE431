@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://www.youtube.com/watch?v=BwE8ABx2RuI
 
 
-Conference submitted paper / paper submission / login Link:
+Conference submitted paper / paper submission / login Link: https://ieee-csde.org/csde2023/nps-profile/?action=list&fbclid=IwAR29pnWKc0nykH_UFtagZq0sJS9aYdbzWEMdaMCwvPwulCGh4UW322vifT0
 
 
 Paper title:
@@ -14,16 +14,18 @@ Fake news detection using NLP
 Paper presentation (anyone can view without login):
 https://github.com/zehan98/CSE431/blob/main/Submission_4/Fake%20News%20Detection%20using%20NLP.pdf
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 14th May 2023
+
+Conference submission proof: https://drive.google.com/drive/folders/15b4wEeN34-_03px0WmKMLoiSD2yFFDQf?fbclid=IwAR1mBrOy9svV-xkKsRGBxqPE_JEhesDsuM5PSQwV62GMsMiUog6nmw8-aVY
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: CSDE-847
 
 
-Conference Name:
+Conference Name: 10th IEEE CSDE 2023, the Asia-Pacific Conference on Computer Science and Data Engineering
 
 
-Conference URL:
+Conference URL: https://ieee-csde.org/csde2023/?fbclid=IwAR1sP62BhfF5_zDZSVV6a3NdV_rTUAXtP23xcWUvp9_CmsV55Ke0M2Yoc5E
 
 
 Group Number:
